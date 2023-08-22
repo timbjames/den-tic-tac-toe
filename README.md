@@ -45,3 +45,5 @@ You can then start the local development server:
 ```
 deno task start
 ```
+
+version bump
